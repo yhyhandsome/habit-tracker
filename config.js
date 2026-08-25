@@ -1,4 +1,4 @@
-﻿// ============================================================
+// ============================================================
 //  颜浩宇 · 习惯打卡 — 配置文件
 //  部署前把下面两项改成你自己的 Supabase 信息：
 //  （Supabase 控制台 → Settings → API → Project URL / anon public key）
@@ -6,10 +6,10 @@
 
 window.APP_CONFIG = {
   // Supabase 项目地址，例如 "https://xxxx.supabase.co"
-  SUPABASE_URL: "",
+  SUPABASE_URL: "https://qrhkjlvizofbbmzqlnzn.supabase.co",
 
   // Supabase anon public key
-  SUPABASE_ANON_KEY: "",
+  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFyaGtqbHZpem9mYmJtenFsbnpuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODc2MTA5NTUsImV4cCI6MjEwMzE4Njk1NX0.VpNwWp7Wx_96pcSL8seG6Ymhe1TaPpyiaBl5j406yLA",
 
   // 主人姓名（页面大标题）
   USER_NAME: "颜浩宇",
